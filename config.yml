@@ -2,7 +2,7 @@ title: UNISON Technologies Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://unisontech.org
+baseURL: https://status.unisontech.org
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
