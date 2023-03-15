@@ -40,7 +40,7 @@ params:
     - name: Website
       description: The main website
       category: Uncategorized
-      link: https://example.com/
+      link: https://unisontech.org
     - name: Assets
       description: Reliant on Cloudflare and Netlify
       category: Uncategorized
@@ -53,12 +53,14 @@ params:
       description: All "go.unisontech.org" links
     - name: Website
       category: Schedules
+      link: https://schedules.unisontech.org
     - name: Configuration
       category: Schedules
       description: The actual schedules and other configuration for Schedules
     - name: Stock Digest (website)
       category: Services
       description: Get daily alerts on your tracked stocks
+      link: https://stockdigest.unisontech.org
     - name: Stock Digest (backend)
       category: Services
       description: The actual service that powers Stock Digest
