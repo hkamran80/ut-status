@@ -64,6 +64,8 @@ params:
     - name: Stock Digest (backend)
       category: Services
       description: The actual service that powers Stock Digest
+    - name: Demo Service
+      category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#367BBC"
   enableLastMod: true
