@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2023-04-18T01:06:44.969Z
+resolvedWhen: ""
 affected:
   - Demo Service
 severity: down
