@@ -11,7 +11,7 @@ affected:
   - Umami
 severity: notice
 ---
-*Complete* - Umami was successfully upgraded and service has been restored. {{< track "2023-04-23 8:17:00" >}}
+*Completed* - Umami was successfully upgraded and service has been restored. {{< track "2023-04-23 8:17:00" >}}
 
 Umami will be down for about two hours while it undergoes an upgrade. During this time, no analytics data will be recorded, nor will users be able to access the Umami dashboard.
 
