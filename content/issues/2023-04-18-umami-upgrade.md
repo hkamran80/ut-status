@@ -2,7 +2,7 @@
 section: issue
 title: Umami Upgrade
 date: 2023-04-23T07:30:00.000Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: false
