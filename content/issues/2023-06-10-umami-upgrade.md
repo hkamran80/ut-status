@@ -7,6 +7,8 @@ draft: false
 informational: true
 pin: false
 resolvedWhen: ""
+affected:
+  - Umami
 severity: notice
 ---
 Umami will be down for about two hours while it undergoes an upgrade. During this time, no analytics data will be recorded, nor will users be able to access the Umami dashboard.
