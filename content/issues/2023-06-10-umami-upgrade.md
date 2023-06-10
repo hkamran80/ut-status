@@ -2,15 +2,17 @@
 section: issue
 title: Umami Upgrade
 date: 2023-06-10T07:30:00.000Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: false
-resolvedWhen: ""
+resolvedWhen: 2023-06-10T08:21:58.616Z
 affected:
   - Umami
 severity: notice
 ---
+*Completed* - Umami was successfully upgraded and service has been restored. {{< track "2023-06-10 08:21:00" >}}
+
 Umami will be down for about two hours while it undergoes an upgrade. During this time, no analytics data will be recorded, nor will users be able to access the Umami dashboard.
 
 The two hours is an estimate at this time, and may take more or less time depending on the upgrade. Sites that use Umami will be updated during this time as well.
