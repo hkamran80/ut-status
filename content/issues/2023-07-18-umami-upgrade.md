@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Umami Upgrade
-date: 2023-07-18T07:30:49.632Z
+date: 2023-07-19T07:30:49.632Z
 resolved: false
 draft: false
 informational: true
