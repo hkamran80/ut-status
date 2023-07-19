@@ -7,8 +7,7 @@ draft: false
 informational: true
 pin: false
 resolvedWhen: 2023-07-18T02:46:49.651Z
-affected:
-  - Umami
+affected: []
 severity: notice
 ---
 Umami will be down for about an hour while it undergoes an upgrade. During this time, no analytics data will be recorded, nor will users be able to access the Umami dashboard.
