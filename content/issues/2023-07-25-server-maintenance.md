@@ -9,4 +9,8 @@ pin: false
 resolvedWhen: ""
 severity: notice
 ---
-*Investigating* - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
+Umami will be down for about two hours while the server undergoes routine maintenance. 
+
+During this time, no analytics data will be recorded, nor will users be able to access the Umami dashboard.
+
+The two hours is an estimate at this time, and may take more or less time depending on the upgrade. Sites that use Umami will not be able to log any metrics during this time.
