@@ -7,6 +7,8 @@ draft: false
 informational: true
 pin: false
 resolvedWhen: ""
+affected:
+  - Umami
 severity: notice
 ---
 Umami will be down for about two hours while the server undergoes routine maintenance. 
