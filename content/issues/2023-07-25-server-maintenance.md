@@ -2,7 +2,7 @@
 section: issue
 title: Server Maintenance
 date: 2023-07-28T00:00:00.000Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: false
