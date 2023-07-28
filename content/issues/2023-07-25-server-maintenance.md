@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: true
 pin: false
-resolvedWhen: ""
+resolvedWhen: 2023-07-28T02:52:00.000Z
 affected:
   - Umami
 severity: notice
