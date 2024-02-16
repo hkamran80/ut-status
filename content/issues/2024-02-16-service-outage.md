@@ -12,4 +12,4 @@ affected:
   - Stock Digest (backend)
 severity: down
 ---
-*Notice* - Our internet service provider is currently upgrading the network. The current ETA for network restoration is 03:30 PT. This post will be updated once we have more information. {{< track "2024-02-16 09:28:00" >}}
+*Monitoring* - Our internet service provider is currently upgrading the network (without any prior notice). The current ETA for network restoration is 03:30 PT. This post will be updated once we have more information. {{< track "2024-02-16 09:28:00" >}}
