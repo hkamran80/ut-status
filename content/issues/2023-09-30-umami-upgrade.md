@@ -2,11 +2,11 @@
 section: issue
 title: Umami Upgrade
 date: 2023-09-30T22:00:20.065Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: false
-resolvedWhen: ""
+resolvedWhen: 2023-09-30T22:15:00.000Z
 affected:
   - Umami
 severity: notice
